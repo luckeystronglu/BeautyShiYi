@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#9cd2eb"
+    android:paddingTop="30dp"
+    android:orientation="vertical">
+    <com.bigkoo.convenientbanner.ConvenientBanner
+        android:id="@+id/convenientBanner_grow"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:text="Hello World!"/>
+
+</LinearLayout>
